@@ -31,7 +31,7 @@ Rhetorical figures can have a strong effect on the readers/listeners, but are of
 A decision tree based on the ontology can help to find the name for a figure:
 For example: 
 
-*I like Pizza! You like Pizza!*
+*I like Salami Pizza! You like every Pizza!*
 
     Pizza:
     (Repetition = yes) ∧ (SameForm = Word) ∧ (isInPosition = End) → Epiphora
