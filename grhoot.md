@@ -23,7 +23,9 @@ Rhetorical figures can have a strong effect on the readers/listeners, but are of
 * Ontology modeled in Protégé for 110 rhetorical figures with names in English, Serbian, and example sentences.
 * We modeled 36 additional figures.
 * Completeness and Consistency Check: Competency questions answered by DL and SPARQL queries to ensure that the ontology works as expected.
-    
+
+For example, the figure "Alliteration" looks like the following in the ontology:
+![Alliteration](/img/AlliterationNeu.PNG)
 
 
 
@@ -44,5 +46,11 @@ We designed a decision tree for figures of repetition in GRhOOT:
 ![DecisionTree](/img/DecisionTree.PNG)
 
 
-We are also planning to implement a web app that guides users interactively. User can choose text samples from the pool. An active learning approach helps at the annotation process, generating annotated data for machine learning models. Stay tuned for updates!
+We are also planning to implement a web app that guides users interactively. User can choose text samples from the pool. An active learning approach helps at the annotation process, generating annotated data for machine learning models. Here is a draft of the UI:
+
+<p align="center">
+  <img width="350" src="/img/Webapp.PNG">
+</p>
+
+Stay tuned for updates!
 
