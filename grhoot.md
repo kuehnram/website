@@ -41,7 +41,7 @@ For example:
     → Epanalepsis/Gradatio/Anticlimax
 
 We designed a decision tree for figures of repetition in GRhOOT:
-<!-- ![DecisionTree](/img/decisiontree.pdf)-->
+![DecisionTree](/img/DecisionTree.PNG)
 
 
 We are also planning to implement a web app that guides users interactively. User can choose text samples from the pool. An active learning approach helps at the annotation process, generating annotated data for machine learning models. Stay tuned for updates!
