@@ -13,7 +13,7 @@ We developed a modular ontology of rhetorical figures.
 The formal representation shall facilitate their detection, thus improving sentiment analysis, argument mining, detecting hate speech/fake news, and many other tasks where non-literal language is important.
 The ontology can be a support for human annotators to create annotated datasets with rhetorical figures.
 
-![Contribution](/img/websitecontribution.PNG)
+<img width="550" src="/img/websitecontribution.PNG">
 
 ## Methodology
 Rhetorical figures can have a strong effect on the readers/listeners, but are often neglected in NLP. With our ontology, we want to tackle this problem and support the automatic detection and annotation of rhetorical figures. Our contributions are:
