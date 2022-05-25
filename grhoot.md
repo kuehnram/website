@@ -11,7 +11,7 @@ Here are the links to the ontology, the github repository, and a LODE documentat
 ```
     @InProceedings{kuehn2022ontology,
     author    = {Kühn, Ramona and Mitrović, Jelena and Granitzer, Michael},
-    title     = {{GRhOOT: Ontology of Rhetorical Figures in German}},
+    title     = {GRhOOT: Ontology of Rhetorical Figures in German},
     booktitle      = {Proceedings of The 13th Language Resources and Evaluation Conference},
     month          = {June},
     year           = {2022},
