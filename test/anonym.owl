@@ -2314,7 +2314,7 @@ Returning to and providing additional detail for items mentioned previously (oft
         <esther:IsRepeatableElementOfDifferentForm rdf:resource="https://anonymous.org/esther.owl#WordElement"/>
         <esther:IsRepeatableElementOfSameForm rdf:resource="https://anonymous.org/esther.owl#WordElement"/>
         <esther:IsRhetoricalGroup rdf:resource="https://anonymous.org/esther.owl#FigureOfThought"/>
-        <esther:IsExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string"><"He is my friend, my angel, my god" (Friedrich Schiller: Die Raeuber)</esther:IsExample>
+        <esther:IsExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">"He is my friend, my angel, my god" (Friedrich Schiller: Die Raeuber)</esther:IsExample>
         <esther:Name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gradatio</esther:Name>
         <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">"A Gradatio is a series whose members overlap but need not possess the same quality." (Fahnenstock). Gradatio is a progressive Anadiplosis (Lausberg)</rdfs:comment>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gradatio</rdfs:label>
