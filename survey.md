@@ -1,6 +1,7 @@
 
-# Computational Approaches to the Detection of Lesser-Known Rhetorical Figures: A Systematic Survey and Research Challenges
+# Survey on Rhetorical Figures
 In this survey, we investigated over 40 papers that computationally detect lesser-known rhetorical figures beyond metaphor, irony, and sarcasm. During the research, we created a file containing all approaches with their details on models, language, performance scores, and many more.
+You can expand the table by clicking on the symbol on the right in the bottom corner.
 
 The table is additional material to the paper titled: 
 **"Computational Approaches to the Detection of Lesser-Known Rhetorical Figures: A Systematic Survey and Research Challenges"**  with the authors **Ramona Kühn, Jelena Mitrović, and Michael Granitzer.**
